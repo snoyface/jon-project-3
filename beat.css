@@ -33,7 +33,7 @@ body {
 * #info-container styling (the top panel with album cover, track info) */
 
 #container, #cover, #info-container > div {
-	-webkit-transition-duration: 2s;
+	-webkit-transition-duration: 4s;
 }
 
 #info-container {
