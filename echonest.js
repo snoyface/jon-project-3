@@ -129,6 +129,25 @@ function loudnessAt(track, time) {
     return -1;
 }
 
+/*
+function hotttnesssSketch(artist) {
+    function sketchProc(P){
+        var hottt = [];  //array to hold the value to hotttnesss
+        if (hottt > .5)  //start of creating processing sketch to change color of box
+                        {
+            
+
+        }
+        p.setup = function(){
+            p.size(800, 80);
+
+        }
+    }
+
+}
+
+
+*/
 
 function loudnessSketch(track) {
     // (2) This function _returns a function_ which Processing runs to make 
