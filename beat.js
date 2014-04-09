@@ -16,7 +16,7 @@ var tracks = [];
 // (1) We're going to construct our search using Spotify's API, in our case
 // searching for Kanye West and limiting our results to 10 tracks
 var search = 'Kanye West';
-var maxTracks = 10;
+var maxTracks = 15;
 
 
 
